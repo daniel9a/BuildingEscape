@@ -6,14 +6,14 @@ A game made using **Unreal Engine** and **C++**. The purpose of the game is for 
 
 Below are some screenshots of gameplay
 
-![](Screenshots/Game1.PNG)
+![](Screenshots/Game1.png)
 
-![](Screenshots/Game2.PNG)
+![](Screenshots/Game2.png)
 
-![](Screenshots/Game3.PNG)
+![](Screenshots/Game3.png)
 
-![](Screenshots/Game4.PNG)
+![](Screenshots/Game4.png)
 
-![](Screenshots/Game5.PNG)
+![](Screenshots/Game5.png)
 
-![](Screenshots/Game6.PNG)
+![](Screenshots/Game6.png)
